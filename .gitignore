@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/Charlie/CharlieProject/build/
+/Charlie/CharlieProject/dist/
+/Charlie/CharlieProject/nbproject/private/
